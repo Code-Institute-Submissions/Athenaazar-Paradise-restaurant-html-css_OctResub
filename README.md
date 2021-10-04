@@ -20,16 +20,25 @@ Check out my project deployment documentation for more details.
 ![l](https://user-images.githubusercontent.com/25683280/135899355-61724835-c036-4edc-8e29-17e3d557bfb3.jpg)
 
 <h2>Technologies used</h2>
-HTML - to create the code for the website.
-CSS - to create the styling.
-GitHub - to hold the repository.
-Canva - to design the logo and photos
-Googlefonts - for the website's font.
+<h3>HTML<h3> - to create the code for the website.
+ <h3>CSS</h3> - to create the styling.
+<h3>GitHub</h3> - to hold the repository.
+ <h3>Canva</h3> - to design the logo and photos
+<h3>Googlefonts</h3> - for the website's font.
 
 
-The website displays and functions correctly on the following browsers:
-Chrome
+<h3>The website displays and functions correctly on the following browsers:</h3>
+<h4>Chrome
 Firefox
-Safary
+ Safary</h4>
+ 
+ 
+ 
+ 
+ <h2>Testing</h2>
+ To verify my HTML code I used W3c
+ The CSS code came out without errors:
+ I decided to keep the line noted as warning as helped me to control better the responsiveness of the website.
 
+ 
 
