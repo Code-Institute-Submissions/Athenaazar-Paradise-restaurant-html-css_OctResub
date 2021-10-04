@@ -25,6 +25,28 @@ Check out my project deployment documentation for more details.
 <h3>GitHub</h3> - to hold the repository.
  <h3>Canva</h3> - to design the logo and photos
 <h3>Googlefonts</h3> - for the website's font.
+ 
+ 
+ <h2>**Features & Pages**</h2>
+
+The website consists of 6 unique pages:
+
+- Homepage
+- Contact Us
+- About us
+- Menu
+- Event
+- Gallery
+
+<ins>_Navigation_</ins>
+
+The navigation bar consists of the company logo, navigation links.
+ 
+Mobile version navigation has a company logo and menu with the same structure as large navigation.navigation.
+
+<ins>_Footer_</ins>
+
+The top part of the footer has a company name, and the below part has navigation links, copyright & social links.
 
 
 <h3>The website displays and functions correctly on the following browsers:</h3>
