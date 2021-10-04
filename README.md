@@ -5,6 +5,7 @@ please click at this link [[https://athenaazar.github.io/Paradise-restaurant-htm
 To learn more about Next.js, take a look at the following resources:
 
 HTML Documentation - learn about HTML https://www.w3schools.com/html/features.
+and https://codeinstitute.net/
 You can check out the my project GitHub repository - your feedback and contributions are welcome!
 
 Deploy on setting/page
