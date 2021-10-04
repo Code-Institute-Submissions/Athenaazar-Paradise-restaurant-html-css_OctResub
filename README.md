@@ -19,3 +19,17 @@ Check out my project deployment documentation for more details.
 
 ![l](https://user-images.githubusercontent.com/25683280/135899355-61724835-c036-4edc-8e29-17e3d557bfb3.jpg)
 
+Technologies used
+HTML - to create the code for the website.
+CSS - to create the styling.
+GitHub - to hold the repository.
+Canva - to design the logo and photos
+Googlefonts - for the website's font.
+
+
+The website displays and functions correctly on the following browsers:
+Chrome
+Firefox
+Safary
+
+
